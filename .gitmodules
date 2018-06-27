@@ -1,0 +1,3 @@
+[submodule "src/github.com/src/github.com/go-realtime-chat"]
+	path = src/github.com/src/github.com/go-realtime-chat
+	url = https://github.com/scotch-io/go-realtime-chat.git
